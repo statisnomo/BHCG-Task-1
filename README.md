@@ -25,4 +25,8 @@ Home Page
 Popup Video
 ![image](https://github.com/user-attachments/assets/248086a2-c5e2-4071-b288-730a643ac7e2)
 
-Intentionally added Malformed Video Link and Missing URL Article buttons in Week 1 to show the error handling abilities of the website.
+Intentionally added Malformed Video Link, Missing URL Article and Invalid Protocol Article buttons to show the error handling abilities of the website.
+
+Thank you for considering my application.
+Anand Venkataraman
+2024A3PS0397H
