@@ -7,6 +7,7 @@ Videos open in a modal popup player.
 Articles open in a new browser tab.
 
 Features
+
 📅 Categorized modules: Display resources grouped by week or topic.
 
 🎬 YouTube videos: Play inside a modal popup.
