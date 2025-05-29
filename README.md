@@ -20,7 +20,9 @@ Features
 
 Demo
 Home Page
-![image](https://github.com/user-attachments/assets/21b75668-a0f1-47c1-8a5a-fbf1db10b907)
+![image](https://github.com/user-attachments/assets/07eb7740-4059-4d41-a0eb-2655fa979e39)
 
 Popup Video
-![image](https://github.com/user-attachments/assets/00b49886-6715-4b2d-ac28-b440ddb5cffa)
+![image](https://github.com/user-attachments/assets/248086a2-c5e2-4071-b288-730a643ac7e2)
+
+Intentionally added Malformed Video Link and Missing URL Article buttons in Week 1 to show the error handling abilities of the website.
